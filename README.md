@@ -1,25 +1,22 @@
 # Welcome to AroldHabla.github.io
 ---
-Arold L Habla 😊
+My favorite fruit 😊
 
 
-1. An apple 🍎
+1. Apple 🍎
 
 
 ![Apple](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgFy7Rk7X6vnxBd93wvLEFYRfKb25joaREg&usqp=CAU)
 
-2. A light house 💡
+2. Mango 🥭
 
+![Mango](https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg)
 
-![Light house](https://randomwordgenerator.com/img/picture-generator/54e2d54b4350aa14f1dc8460962e33791c3ad6e04e50744172277ed7914fc2_640.jpg)
+3. Grapes
 
-3. An ice 🧊
+![Grape](https://img.freepik.com/premium-vector/isolated-dark-grape-with-green-leaf_317810-1956.jpg?w=2000)
 
-
-![Ice](https://randomwordgenerator.com/img/picture-generator/52e3d64a4850ac14f1dc8460962e33791c3ad6e04e507441722978d6904ec2_640.jpg)
-
------
-
+----
 
 - **5 minutes timer ⏱**
 
