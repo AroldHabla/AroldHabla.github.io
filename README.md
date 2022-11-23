@@ -3,9 +3,6 @@
 Arold L Habla 😊
 
 
-3 Random images 
--
-
 1. An apple 🍎
 
 
